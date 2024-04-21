@@ -19,7 +19,7 @@
 .nav-link {
   display: flex;
   justify-content: space-between;
-  right: 30%;
+  right: 31%;
   position: absolute;
   padding: 9vh 0 0 0;
 }
